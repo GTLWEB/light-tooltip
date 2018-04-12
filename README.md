@@ -14,7 +14,7 @@ Jquery extremely light tootip, display on hover element, follow mouse
     <script src="tooltip.js"></script>
     <link rel="stylesheet" type="text/css" href="tooltip..min.css">
     <style>
-      .div-tooltip {display:none; position:absolute; border:1px solid #333;  background-color:#161616; border-radius:5px; padding:10px; color:#fff; font-size:12px Arial; }
+      .div-tooltip {display:none; position:absolute; background-color:#000; padding:10px; color:#fff; font-size:12px Arial; }
     </style>
   </head>
   <body>
