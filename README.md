@@ -21,4 +21,4 @@ Jquery extremely light tootip, display on hover element, follow mouse
     <span data-tooltip="I'm a tooltip message">hover me</span>
   </body>
 </html>
-```HTML
+```
