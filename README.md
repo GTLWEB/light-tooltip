@@ -1,7 +1,7 @@
 # light-tooltip
 Jquery extremely light tooltip, display on hover, follow mouse
 
-# how to use
+# How to use
 1) Load jQuery and tooptip.js
 ```HTML
 <head>
@@ -16,7 +16,7 @@ Jquery extremely light tooltip, display on hover, follow mouse
 </body>
 ```
 
-#Example with CSS
+# Example with CSS
 ```HTML
 <html>
   <head>
