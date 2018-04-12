@@ -1,10 +1,20 @@
 # light-tooltip
-Jquery extremely light tootip, display on hover element, follow mouse
+Jquery extremely light tooltip, display on hover, follow mouse
 
 # how to use
---- You have to load jquery <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-1) Load tooptip.js in your project <head></head>
+1) Load jQuery and tooptip.js
+```HTML
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="tooltip.js"></script>
+</head>
+```
 2) Add attribute data-tooltip to any element
+```HTML
+<body>
+  <button data-tooltip="This is a button">My button</button>
+</body>
+```
 
 #Example with CSS
 ```HTML
@@ -18,7 +28,7 @@ Jquery extremely light tootip, display on hover element, follow mouse
     </style>
   </head>
   <body>
-    <span data-tooltip="I'm a tooltip message">hover me</span>
+    <button data-tooltip="This is a tooltip">My button</button>
   </body>
 </html>
 ```
